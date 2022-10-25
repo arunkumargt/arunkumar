@@ -1,0 +1,76 @@
+{
+  "portfolio": [
+    {
+      "name": "Nest Of Wits Staff",
+      "desc": "Nest of Wits (NOW), an Enterprise Resource Planning (ERP) solution, specifically caters to the educational institutions. As we all know, today’s world is driven by technology which provides solutions to all the tedious tasks and reduces paper-work. It is necessary for educational institutions to have a one-stop solution that eases their planning, student enrollment, ensures the best education until the students pass out.NOW is an extremely efficient, systematic, comprehensive and user-friendly ERP solution that ensures a reduction in management costs, minimization of paper-work and accountability in every single activity. One of the main points for the success of an institution is transparency and NOW facilitates seamless transparency among students, teachers, parents and the management. The features designed are flexible to meet all the requirements and can be integrated into any existing software for an institution. The company aims at continuous refinement and improvement of your experiences with the product. NOW is a software suite that helps you run your entire institution hassle-free.",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.nestofwitsStaff",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/now-staff.webp",
+      "type": "ionic"
+    },
+    {
+      "name": "Nest Of Wits Student",
+      "desc": "Nest of Wits (NOW), an Enterprise Resource Planning (ERP) solution, specifically caters to the educational institutions. As we all know, today’s world is driven by technology which provides solutions to all the tedious tasks and reduces paper-work. It is necessary for educational institutions to have a one-stop solution that eases their planning, student enrollment, ensures the best education until the students pass out.NOW is an extremely efficient, systematic, comprehensive and user-friendly ERP solution that ensures a reduction in management costs, minimization of paper-work and accountability in every single activity. One of the main points for the success of an institution is transparency and NOW facilitates seamless transparency among students, teachers, parents and the management. The features designed are flexible to meet all the requirements and can be integrated into any existing software for an institution. The company aims at continuous refinement and improvement of your experiences with the product. NOW is a software suite that helps you run your entire institution hassle-free.",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.nestofwits",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/now-student.webp",
+      "type": "ionic"
+    },
+    {
+      "name": "Rx Stores",
+      "desc": "This is medical e-commerce app.",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.rxstores",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/rx-stores-android.webp",
+      "type": "android"
+    },
+    {
+      "name": "Rx Stores DeliveryBoy",
+      "desc": "This is medical e-commerce delivery boy app.",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.rxdeliveryboy",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/rx-stores-android.webp",
+      "type": "android"
+    },
+    {
+      "name": "GCC Live",
+      "desc": "\"GCC Live\" offers a comprehensive range of advanced security and surveillance solutions to meet the ever-changing requirements of different industries. \"GCC Live\" offers a wide portfolio of products, which has been designed to meet customers’ unique requirements. It covers CCTV Cameras, HD IP Security Cameras, DVRs, and much more.\n \"GCC Live\" brings intelligent security and surveillance solutions that protect people, properties and assets. They ensure safety, security and productivity in various industrial processes. \n \"GCC Live\" is the best app for remote surveillance, control and digital video recording for your private or public network or IP cameras, video encoders and DVRs.Its free of cost and ad free application.",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.gcclive",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/gcc.webp",
+      "type": "ionic"
+    },
+    {
+      "name": "Fresh Milk Delivery",
+      "desc": "Delivery boy can login with mobile number \n Delivery boy can check all the Normal Pending order / Running order / Completed order list and details \n Delivery boy can check all the Subscription Pending order / Running order / Completed order list and details \n Delivery boy can accept or reject the order \n Delivery boy can cancel the order for reason like Issue with on going order, Payment issue with my order, Address wrong, other \n Delivery boy can contact the order person with mobile number dial-up \n Delivery boy can pull to refresh all orders \n Delivery boy can check all the notification \n Delivery boy can check profile and update the details anytime \n Delivery boy can change status with active or inactive \n Delivery boy can check the Order completed, Total Sales and Cancel order statics(insight) \n Delivery boy received notification once the admin assign the new orders \n Delivery boy accept/delivered the order user get notification \n User friendly and Unique UI",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.freshmilkdelivery",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/fresh-milk.webp",
+      "type": "android"
+    },
+    {
+      "name": "Fresh Milk",
+      "desc": "Easy to Sign up & Sign in with Mobile Number Verification \n Sign in with Mobile number/Email \n App Home screen product and category managed by admin \n Product Details with Images and Product Description \n Easy to Add to cart and Orders \n User friendly Payment Gateway(Pickup Myself, Cash on Delivery (COD), PayPal, Razorpay) \n Instant Notification for Any Seasonal Offer \n User can proceed Multiple Normal order \n User can proceed Multiple Subscription order with Quantity Per Day, Repeat (Daily, Weekdays, Weekends), Recharge Deliveries(For subscription total number of days user required item to doorstep delivery), Subscription Start Date \n User can add / update / delete Multiple Address \n User can update profile anytime \n User can check order tracking status with Pending, Processing & Complete or Cancelled \n User can check all order details info \n User can cancel the normal order \n User can User Coupons code \n User can Use Wallet or Refill Wallet Balance \n User can Refer & Earn to other Users \n User can share app with friends and family \n User can check Privacy Policy, About us, Contact us, Terms & Condition page \n User can check Notification \n User can change the Forget Password with Mobile OTP verification \n User received notification once the order Received, Accepted, Process & Delivered \n Easy and Understand Design",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.freshmilk",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/fresh-milk.webp",
+      "type": "android"
+    },
+    {
+      "name": "Get In Get It",
+      "desc": "This is E-Commerce app",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.getingetit",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/getin-getit.webp",
+      "type": "flutter"
+    },
+    {
+      "name": "Zohrx",
+      "desc": "Our customer-oriented approach has been a staple of the company over the years, and we’ll continue to measure our success by the accomplishments of our clients. \n We partner with our clients to deliver strategic, integrated communications solutions to key decision-makers through the proven strength of our brands, when and where our clients need it.",
+      "ps_url": "https://play.google.com/store/apps/details?id=com.amazingwits.zohrx_new",
+      "as_url": "",
+      "img": "./assets/img/portfolio/webp/zohrx.webp",
+      "type": "ionic"
+    }
+  ]
+}
