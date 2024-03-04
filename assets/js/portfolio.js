@@ -18,10 +18,14 @@ let options = {
 };
 
 $(window).on("load", function () {
-  fetch("./assets/json/portfolio.json", options)
-    .then((res) => res.json())
-    .then((data) => {
-      result = data;
-      console.log(result);
-    });
+  $.getJSON("./assets/json/portfolio.json", function(data) {
+    result = data;
+    console.log(result);
+  });
+  // fetch("./assets/json/portfolio.json", options)
+  //   .then((res) => res.json())
+  //   .then((data) => {
+  //     result = JSON.parse(data);
+  //     console.log(result);
+  //   });
 });
